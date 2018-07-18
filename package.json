@@ -26,6 +26,9 @@
     "babel-plugin-import": "^1.8.0",
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
-    "react-app-rewired": "^1.5.2"
-  }
+    "react-scripts": "1.1.4",
+    "react-app-rewired": "^1.5.2",
+    "redux-devtools-extension": "^2.13.5"
+  },
+  "proxy": "http://eb65389a.ngrok.io"
 }
